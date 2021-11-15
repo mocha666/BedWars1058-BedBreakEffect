@@ -1,0 +1,12 @@
+name: BedWars1058-BedBreakEffect
+version: 1.0
+author: JoseMarcellio
+description: BedBreakEffect for BedWars1058
+main: com.josemarcellio.bedbreakeffect.BedBreakEffect
+softdepend: [BedWars1058, Vault]
+load: POSTWORLD
+commands:
+  bedwarsbedbreakeffect:
+    aliases: [bwbbe]
+  bedwarsbedbreakeffectadmin:
+    aliases: [bwbbea]

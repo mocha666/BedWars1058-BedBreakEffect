@@ -1,0 +1,12 @@
+MainCommand: |-
+  &6BedWars1058 BedBreakEffect by JoseMarcellio &7- &cMain Command
+  &7/bedwarsbedbreakeffect open &8- &eOpen Menu
+  &7/bedwarsbedbreakeffectadmin &8- &eAdmin Command
+AdminCommand: |-
+  &6BedWars1058 BedBreakEffect by JoseMarcellio &7- &cAdmin Command
+  &7/bedwarsbedbreakeffectadmin open <player> &8- &eForce Open Menu
+OnlyPlayerCanUseCommand: '&cOnly player can use this command!'
+NoPermission: '&cYou don''t have a permission!'
+SelectedEffect: '&6You selected &a%effect%&6!'
+LockedEffect: '&cYou don''t have money to purchase this effect!'
+PurchasedEffect: '&6You purchased &a%effect%&6!'
